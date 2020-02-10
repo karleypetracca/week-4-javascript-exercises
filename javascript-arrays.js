@@ -202,6 +202,24 @@
 
 
 
+// // 11. TAKE 2...
+
+// function removeFalseys(array) {
+//     let newArray = []
+//     array.forEach(function(element) {
+//         if (element) {
+//             newArray.push(element);
+//         }
+//     })
+//     return newArray;
+// }
+    
+// const arr = [NaN, 0, 15, false, -22, '',undefined, 47, null]
+
+// newArray = removeFalseys(arr);
+// console.log(newArray); // returns [15, -22, 47]
+
+
 
 // // 12. Write a JavaScript function to merge two arrays and removes all duplicates elements. 
 // // ```
